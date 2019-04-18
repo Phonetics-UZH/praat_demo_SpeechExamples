@@ -1,0 +1,12 @@
+ManPagesTextFile
+"Speech Examples" "Volker Dellwo" 20141109 0
+<intro> "This plugin contains a list of languages that you can use as quick access example files when a quick example is needed"
+<entry> "Languages"
+<normal> "A selection of sound files from different languages is inside the directory. By clicking on one of the languages an example sound file will be loaded in the list of objects."
+<entry> "Edit examples..."
+<normal> "You can edit the list of language files. A directory will open to which you can add or remove sound files. The files will be displayed by the file name in the list of languages."
+<entry> "Deinstallation"
+<normal> "You can either use the script 'install_deinstall_plugin.praat' that was delivered with this plugin or you can simply go to your Praat preferences directory and delete the folder from there. Praat needs to be restarted for the changes to take effect. If you do not know where your Praat preferences directory is please search the Praat help menu for 'preferencs directory'."
+<entry> "Version history"
+<list_item> "\bu V_0.1 created: 2014_11_08"
+<list_item> "\bu V_0.2 minor bug fixes"
